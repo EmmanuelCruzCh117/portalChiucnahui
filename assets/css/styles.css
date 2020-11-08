@@ -1,0 +1,61 @@
+.bg-red {
+    background-color: rgb(26, 37, 102);
+}
+
+
+/*--------- utilidades */
+
+.margen {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+
+/*----------------------*/
+
+.img-header {
+    background-image: url(/assets/img/wallpaper.png);
+    background-position: center center;
+    background-size: cover;
+    height: 60vh;
+    min-height: 10rem;
+}
+
+.img-header2 {
+    background-image: url(/assets/img/mictlan.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding-top: -25px;
+    height: 75vh;
+    min-height: 25rem;
+}
+
+.img-header3 {
+    background-image: url(/assets/img/mictlantecutli.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    min-height: 10rem;
+}
+
+.text-big {
+    font-size: 75px;
+}
+
+.text-med {
+    font-size: 50px;
+}
+
+.text-sml {
+    font-size: 30px;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.img-card-x {
+    width: 18rem;
+    float: left;
+    margin: 15px;
+}
