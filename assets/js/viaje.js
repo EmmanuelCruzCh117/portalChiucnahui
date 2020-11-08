@@ -22,7 +22,7 @@ $(document).ready(function() {
             location.href = "tlalocan.html";
         } else if (travel == travel2) {
             location.href = "vm.html";
-        } else if (travel3 == travel3) {
+        } else if (travel == travel3) {
             location.href = "chichihua.html";
         } else if (travel == travel4) {
             location.href = "mict.html";
