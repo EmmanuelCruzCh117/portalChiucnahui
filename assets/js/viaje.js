@@ -14,18 +14,20 @@ $(document).ready(function() {
     async function mostrarDato(travel) {
 
         var travel1 = "Tlalocan";
-        var travel2 = "Valle del mezquital";
+        var travel2 = "Omeyocan";
         var travel3 = "Chichihuacuauhco";
         var travel4 = "Mictlán"
 
         if (travel == travel1) {
             location.href = "tlalocan.html";
         } else if (travel == travel2) {
-            location.href = "vm.html";
+            location.href = "omeyocan.html";
         } else if (travel == travel3) {
             location.href = "chichihua.html";
         } else if (travel == travel4) {
             location.href = "mict.html";
+        } else if (travel == " ") {
+            alert("Ingresa un lugar válido");
         } else {
             alert("Ingresa un lugar válido");
         }
