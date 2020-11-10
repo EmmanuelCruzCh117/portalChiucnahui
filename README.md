@@ -8,10 +8,15 @@ Se requiere la evolución de estas tradiciones mexicanas con implementación de 
 Objetivo general: Desarrollar una aplicación web para dar a conocer los procesos  que puede vivir una persona después de morir según la cultura mexica.
 ## Objetivos específicos:
 ●	Analizar si la aplicación móvil será dinámica para el público 
+
 ●	Diseñar el maquetado de la aplicación web
+
 ●	Determinar las tecnologías que se implementarán dentro del proyecto CHIUCNAHUI 
+
 ●	Desarrollo de BOTS funcionales que expliquen al usuario el plano que desee explorar. 
+
 ●	Hacer interactivo y dinámico el aprendizaje de estos temas. 
+
 ●	Dar una nueva vida a los Mitos y culturas Mexicas.
 
 ## Justificación
@@ -23,8 +28,11 @@ Con la implementación de estas tecnologías, facilitamos el acceso a la informa
 ## Alcances y limitaciones.
 
 ●	El presente trabajo está limitado al tiempo de desarrollo de chatbot.
+
 ●	La naturaleza del proyecto está limitada a un uso correcto de los bots así como de sus características. 
+
 ●	La escalabilidad natural del trabajo puede ser la implementación de formas inclusivas para ser apto a mayor público. 
+
 ●	El  bot puede aprender y recolectar información sobre las dudas de los usuarios sobre las cuales no tenga conocimiento para futuras actualizaciones. 
 
 ## Implementación
@@ -33,27 +41,42 @@ Tecnologías: Azure QnA, Azure LUIS,Azure Bot de aplicación Web.
 
 ## Procedimiento
 a.	Aplicación Web con chatbots.
+
 Primero un chatbot con una base de conocimiento de muchas preguntas relacionadas con el día de muertos y su origen
+
 b.	Enseñanza, dinámica y entrenamiento de los chatbots.
+
 c.	Práctica guiada
+
 d.	Verificación de la comprensión
+
 e.	Práctica independiente
+
 f.	Diseño de la aplicación Web
+
 g.	Implementación de bots en la aplicación Web
+
 h.	Ajustes finales a aplicación Web
+
 i.	Cierre
 
 ## Materiales y recursos
 ●	Bot services
+
 ●	Visual Studio
+
 ●	QnA
+
 ●	Chat bot
 
 ## ¿Qué sigue?  
 Nuestro siguiente paso es perfeccionar los chat de voz, y llevarlos a poder contar un poco más sobre la mitología de los mexicas. 
 
 ## Integrantes: 
-García  González Ricardo Iván
-Raygoza Díaz Eldrich Daniel 
-Rivera Pasaflores Sheyla
-Cruz Chavero Emmanuel
+García  González Ricardo Iván.
+
+Raygoza Díaz Eldrich Daniel.
+
+Rivera Pasaflores Sheyla.
+
+Cruz Chavero Emmanuel.
