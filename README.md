@@ -16,6 +16,8 @@ Objetivos específicos:
 ●	Hacer interactivo y dinámico el aprendizaje de estos temas. 
 ●	Dar una nueva vida a los Mitos y culturas Mexicas.
 
+
+
 Justificación
 En la actualidad, podemos observar como las tradiciones en México, se ven afectadas por costumbres extranjeras, o estas mismas se empiezan a mezclar en donde sufren de  deformaciones principalmente de cultura anglosajona.
 Hemos centrado nuestra atención principalmente en cómo esta pérdida de cultura incluso nos llevó a nosotros mismos a pensar que únicamente existía el Mictlán como el paso que seguía a la muerte, siendo que existen otros 3, a los cuales casi no se les brinda la misma atención dentro de nuestra cultura cotidiana.
@@ -31,7 +33,6 @@ Alcances y limitaciones.
 Implementación
 Expandir de una manera dinámica el conocimiento general sobre los planos extracorporales postmortem, haciendo uso de las tecnologías de Azure QnA, para la generación de  chatbots capaces de explicar de forma clara  al usuario en qué consisten estos .
 Tecnologías: Azure QnA, Azure LUIS,Azure Bot de aplicación Web.
-
 Procedimiento
 a.	Aplicación Web con chatbots.
 Primero un chatbot con una base de conocimiento de muchas preguntas relacionadas con el día de muertos y su origen
@@ -43,8 +44,6 @@ f.	Diseño de la aplicación Web
 g.	Implementación de bots en la aplicación Web
 h.	Ajustes finales a aplicación Web
 i.	Cierre
-
-
 Materiales y recursos
 ●	Bot services
 ●	Visual Studio
