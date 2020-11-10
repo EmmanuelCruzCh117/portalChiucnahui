@@ -1,6 +1,4 @@
-# portalChiucnahui
-# IDEA
-# PORTAL CHIUCNAHUI
+# IDEA: PORTAL CHIUCNAHUI
 
  
 # Problemática
